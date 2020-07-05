@@ -1,0 +1,25 @@
+body{
+	background:url('gift5.png');
+	background-size: cover;
+	font-family: Arial;
+}
+.wrap{
+	max-width: 350px;
+	border-radius: 20px;
+	margin: auto;
+	background:rgba(0,0,0,0.8);
+	box-sizing: border-box;
+	padding: 40px;
+	color: #fff;
+	margin-top: 100px;
+}
+h2{
+	text-align: center;
+}
+.wrap p{
+	text-align: center;
+	text-indent: 2px;
+	direction: rtl;
+	word-spacing: 2px;
+	font-size: 12px;
+}
